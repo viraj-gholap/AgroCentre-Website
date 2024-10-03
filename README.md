@@ -30,4 +30,4 @@
 
 ***● PHP 8.0.12***
 
-● Browser: Google Chrome, Mozilla Firefox
+***● Browser: Google Chrome, Mozilla Firefox***
